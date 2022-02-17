@@ -1,4 +1,4 @@
-# Spectra
+# Spectraa
 ### A better Discord Theme
 ![Version](https://img.shields.io/badge/Version-1.1-fdc91e.svg)
 [![GitHub issues](https://img.shields.io/github/issues/PixelMelt/Spectra.svg)](https://GitHub.com/PixelMelt/Spectra/issues/)
